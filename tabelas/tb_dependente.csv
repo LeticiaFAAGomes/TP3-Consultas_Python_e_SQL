@@ -1,0 +1,45 @@
+idDependente,idFuncionario,parentesco,nome,idade,genero
+1,1,Filho,Izaac Xavier,2010-04-14,Masculino
+2,1,Cônjuge,Manuela Silva Xavier,1996-06-28,Feminino
+3,2,Mãe,Laura Pereira Oliveira,1979-03-25,Feminino
+4,2,Pai,Sebastião Oliveira,1976-06-21,Masculino
+5,2,Filho,Juliana Oliveira Soares,2022-08-15,Feminino
+6,3,Cônjuge,Débora Souza Andrade,2010-07-14,Feminino
+7,3,Mãe,Amanda Oliveira Andrade,1974-06-23,Feminino
+8,4,Pai,Anderson Gomes,1972-01-27,Masculino
+9,4,Irmão,Gabriela Gomes,2007-03-17,Feminino
+10,5,Cônjuge,Paulo da Silva Queiroz,1997-05-24,Masculino
+11,5,Filho,Ivana Barbosa Queiroz,2015-04-15,Feminino
+12,6,Mãe,Manuela Schmidt,1976-09-29,Feminino
+13,6,Irmão,Mara Schmidt,2010-12-25,Feminino
+14,7,Filho,Júlia Alvares,2021-03-05,Feminino
+15,7,Filho,Larissa Alvares,2018-11-25,Feminino
+16,8,Cônjuge,Luciana Braz Augusto,2001-10-04,Feminino
+17,8,Filho,Carlos Augusto,2020-02-16,Masculino
+18,9,Filho,Fabiana Rosa da Silva,2015-08-19,Feminino
+19,9,Filho,Edgar Rosa da Silva,2010-02-21,Masculino
+20,10,Cônjuge,Larissa Borbon Moreira,1986-04-13,Feminino
+21,10,Filho,Wagner Moreira,2007-09-19,Masculino
+22,11,Mãe,Sandra Albuquerque Alencar,1979-12-05,Feminino
+23,11,Pai,Leandro Santos Alencar,1975-11-22,Masculino
+24,12,Cônjuge,Patrícia dos Anjos Araújo,1972-06-07,Feminino
+25,12,Filho,Thaísa dos Anjos Araújo,1998-01-20,Feminino
+26,13,Cônjuge,Marcos Ferreira Sousa,1999-01-22,Masculino
+27,13,Filho,Lucas Sousa,2020-01-14,Masculino
+28,14,Mãe,Maria Soares Silva,2011-01-14,Feminino
+29,14,Filho,Daniela Silva,2024-01-01,Feminino
+30,15,Cônjuge,Carla Gross Almeida,1984-02-03,Feminino
+31,15,Filho,Roberta Landini Almeida,2007-05-05,Feminino
+32,15,Filho,Luana Gross Almeida,1997-07-07,Feminino
+33,16,Cônjuge,Anderson Gonçalves Borges,1998-01-25,Masculino
+34,16,Filho,Tainara Borges,2018-07-08,Feminino
+35,17,Cônjuge,Andressa Almeida Ferraz,1998-09-09,Feminino
+36,17,Filho,Fábia Almeida Ferraz,2016-10-12,Feminino
+37,18,Mãe,Ana Alves de Souza,1972-04-05,Feminino
+38,18,Pai,André Barreto,1972-03-26,Masculino
+39,19,Pai,Alexandre da Silva Lopez,1970-12-12,Masculino
+40,19,Irmão,Alberto Lopez,2018-05-14,Masculino
+41,20,Cônjuge,Leila Boaventura Lima,2010-08-07,Feminino
+42,20,Filho,Fabrício Lima,2023-01-13,Masculino
+43,21,Cônjuge,Alessandra Lopez Ribeiro,1994-09-18,Feminino
+44,21,Filho,Caio Ribeiro,2014-08-21,Masculino

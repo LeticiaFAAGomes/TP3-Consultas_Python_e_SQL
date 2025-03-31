@@ -1,0 +1,14 @@
+idCargo,nomeCargo,salarioBase,nivelCargo,escala
+1,Desenvolvedor Back-end,9.000,Analista,5x2
+2,Desenvolvedor Front-end,4.000,Estagiário,5x2
+3,Desenvolvedor Fullstack,18.000,Diretor,4x3
+4,Tech Lead,20.000,Gerente,4x3
+5,Atendimento ao Cliente,3.000,Estagiário,6x1
+6,Representante de Atendimento,8.000,Gerente,5x2
+7,CEO,28.000,Diretor,5x2
+8,Contador,5.000,Analista,5x2
+9,Contador,10.000,Gerente,4x3
+10,Recrutador,5.000,Analista,6x1
+11,Tech Recruter,8.000,Gerente,5x2
+12,Vendedor,5.000,Analista,6x1
+13,Marketing Digital,9.000,Gerente,4x3
